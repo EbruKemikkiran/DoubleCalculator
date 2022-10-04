@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoveCalculator</name>
+    </assembly>
+    <members>
+        <member name="T:LoveCalculator.CalculatorBase">
+            <summary>
+            Abstract base class for all calculators
+            </summary>
+        </member>
+    </members>
+</doc>

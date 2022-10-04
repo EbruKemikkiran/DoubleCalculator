@@ -1,0 +1,11 @@
+D:\c#\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe.config
+D:\c#\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe
+D:\c#\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.pdb
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.AssemblyReference.cache
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.Form1.resources
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.Properties.Resources.resources
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.GenerateResource.cache
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.CoreCompileInputs.cache
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.exe
+D:\c#\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.pdb
